@@ -22,6 +22,8 @@ Construyo software de gestión empresarial (contabilidad, ERP y facturación ele
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
 </p>
 
 ---
@@ -48,27 +50,8 @@ Sistema ERP para gestión empresarial.
 
 **[BarpelAPI](https://github.com/CarlosMontalvo98/barpelapi)**
 API de facturación electrónica DIAN.
-`Next.js` · `Python` · `Docker`
+`Next.js` · `Hono` · `Python` · `Docker`
 
 </td>
 </tr>
 </table>
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosMontalvo98&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosMontalvo98&theme=dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMontalvo98&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  🌐 <a href="https://ai.barpelapp.com">ai.barpelapp.com</a>
-</p>
