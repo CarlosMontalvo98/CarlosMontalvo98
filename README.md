@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software · Montería, Colombia</h3>
 
 <p align="center">
-Construyo software de gestión empresarial (contabilidad, ERP y facturación electrónica) para negocios reales.
+Construyo software para negocios como: ERP, contabilidad, facturación electrónica, automatización con WhatsApp y asistentes de IA.
 </p>
 
 <p align="center">
